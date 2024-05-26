@@ -1,11 +1,6 @@
 # Ļeņina kopotu rakstu 4. izdevuma 21. sējums
-Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas tajā.
-
-`_000` ir grāmatas vāks, `000X*` iekļauj grāmatas priekšvārdu.
-
-Šim sējumam trūkst kvalitatīvu 420. un 421. lpp. skenējumu, citā skenējumā (failā [Viss.pdf](./Viss.pdf)) tie ir.
 <details>
-<summary><b>Saturs</b></summary>
+<summary><h2>Saturs</h2></summary>
     <ul>
         <li><a href="./000D.jpg">Priekšvārds</a></li>
         <li><a href="./000E-001.jpg">Revolucionārās sociāldemokrātijas uzdevumi</a></li>
@@ -67,7 +62,7 @@ Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas ta
     </ul>
 </details>
 
-**Ilustrācijas**
+## Ilustrācijas
 - [V. I. Ļeņina rokraksta „Kārlis Markss“ pirmā lappuse
 (1914. g. jūlijs — novembris)](./028.png)
 - [Avīzes „Social-Demokrat“ 40. numura 1915. g. 29. martā pirmā lapaspuse ar V. I. Ļeņina rakstiem „Ko pierādījusi tiesa par KSDS frakciju?“ un „Sakarā ar Londonas konferenci“](./138-139.jpg)
@@ -75,3 +70,19 @@ Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas ta
 (1915. g., vācu valodā)](./358-359.jpg)
 - [V. I. Ļeņina rokraksta „"Sociālistiskās propogandas līgas" sekretāram“ pirmā lappuse
 (1915. g. novembrī, angļu valodā)](./376-377.jpg)
+
+## Oriģinālā grāmatas tehniskā specifikācija (pēdējā lappuse)
+
+> JT 26310. Parakstīta iespiešanai 1950. gada 11. decembrī.<br>
+> Metiens 50 000 eks. (1─20 000). Izdevniecības № 3913-P79.<br>
+> Papīrs 52×84 1/16 == 14,313 papīra loksnes, 23.47 iespiedu<br>
+> loksnes un 24,25 izdevniecības loksnes. Pasūt. № 13483.<br>
+> Iespiesta LPRRT Paraugtipografijā, Rīgā, Puškina ielā 12.<br>
+> Maksā 6 rbļ. 50 kap.
+
+## Citas piezīmes
+Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas tajā.
+
+`_000` ir grāmatas vāks, `000X*` iekļauj grāmatas priekšvārdu.
+
+Šim sējumam trūkst kvalitatīvu 420. un 421. lpp. skenējumu, [citā skenējumā (`Viss.pdf`)](./Viss.pdf) tie ir.
