@@ -69,7 +69,7 @@ Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas ta
 
 **Ilustrācijas**
 - [V. I. Ļeņina rokraksta „Kārlis Markss“ pirmā lappuse
-(1914. g. jūlijs — novembris)](./028.jpg)
+(1914. g. jūlijs — novembris)](./028.png)
 - [Avīzes „Social-Demokrat“ 40. numura 1915. g. 29. martā pirmā lapaspuse ar V. I. Ļeņina rakstiem „Ko pierādījusi tiesa par KSDS frakciju?“ un „Sakarā ar Londonas konferenci“](./138-139.jpg)
 - [V. I. Ļeņina rokraksta „Revolucionārais proletariāts un nāciju pašnoteikšanās tiesības“ pirmā lappuse
 (1915. g., vācu valodā)](./358-359.jpg)
