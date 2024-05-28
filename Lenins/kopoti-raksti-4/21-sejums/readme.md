@@ -1,4 +1,5 @@
 # Ļeņina kopotu rakstu 4. izdevuma 21. sējums
+<p align="center"><img src="./000.jpg" alt="21. sējums"></p>
 <details>
 <summary><h2>Saturs</h2></summary>
     <ul>
@@ -83,6 +84,6 @@
 ## Citas piezīmes
 Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas tajā.
 
-`_000` ir grāmatas vāks, `000X*` iekļauj grāmatas priekšvārdu.
+[`000`](./000.jpg) ir grāmatas vāks, `000X*` iekļauj grāmatas priekšvārdu.
 
 Šim sējumam trūkst kvalitatīvu 420. un 421. lpp. skenējumu, [citā skenējumā (`Viss.pdf`)](./Viss.pdf) tie ir.
