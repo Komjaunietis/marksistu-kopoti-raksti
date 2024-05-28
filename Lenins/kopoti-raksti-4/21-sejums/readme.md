@@ -82,8 +82,6 @@
 > Maksā 6 rbļ. 50 kap.
 
 ## Citas piezīmes
-Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas tajā.
-
-[`000`](./000.jpg) ir grāmatas vāks, `000X*` iekļauj grāmatas priekšvārdu.
+Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas tajā. Failu nosaukumi, kas sākas ar `000X`, kur `X` ir bāzes latīņu alfabēta burts, ietver grāmatas priekšvārdu.
 
 Šim sējumam trūkst kvalitatīvu 420. un 421. lpp. skenējumu, [citā skenējumā (`Viss.pdf`)](./Viss.pdf) tie ir.
