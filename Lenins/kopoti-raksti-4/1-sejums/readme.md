@@ -3,8 +3,8 @@
 <details>
 <summary><h2>Saturs</h2></summary>
     <ul>
-        <li><a href="./00G.jpg">Priekšvārds ceturtajam izdevumam</a></li>
-        <li><a href="./00L-00M.jpg">Priekšvārds pirmajam izdevumam</a></li>
+        <li><a href="./000G.jpg">Priekšvārds ceturtajam izdevumam</a></li>
+        <li><a href="./000L-000M.jpg">Priekšvārds pirmajam izdevumam</a></li>
         <li><a href="./001.jpg">Jaunas saimnieciskās kustības zemnieku dzīvē <i>(Sakarā ar V. Pļehanova grāmatu "Dienvidkrievijas zemnieku saimniecība")</i></a></li>
         <li><a href="./057.jpg">Sakarā ar tā saucamo jautājumu par tirgiem</a></li>
         <li><a href="./107.jpg">Kas tie tādi "tautas draugi" un kā viņi karo pret sociāldemokrātiem? <i>(Atbilde uz žurnāla "Russkoje Bogatstvo" rakstiem pret marksistiem)</i></a></li>
@@ -35,4 +35,4 @@
 > Maksā 6 rbļ. 50 kap.
 
 ## Citas piezīmes
-Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas tajā. Failu nosaukumi, kas sākas ar `00X`, kur `X` ir bāzes latīņu alfabēta burts, ietver grāmatas priekšvārdu.
+Attēla (`*.jpg` vai `*.png`) nosaukums ir tās lapaspuses, kuras ir redzamas tajā. Failu nosaukumi, kas sākas ar `000X`, kur `X` ir bāzes latīņu alfabēta burts, ietver grāmatas priekšvārdu.
