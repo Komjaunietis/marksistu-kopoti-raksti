@@ -64,19 +64,16 @@
 </details>
 
 ## Ilustrācijas
-- [V. I. Ļeņina rokraksta „Kārlis Markss“ pirmā lappuse
-(1914. g. jūlijs — novembris)](./028.png)
+- [V. I. Ļeņina rokraksta „Kārlis Markss“ pirmā lappuse (1914. g. jūlijs — novembris)](./028.png)
 - [Avīzes „Social-Demokrat“ 40. numura 1915. g. 29. martā pirmā lapaspuse ar V. I. Ļeņina rakstiem „Ko pierādījusi tiesa par KSDS frakciju?“ un „Sakarā ar Londonas konferenci“](./138-139.jpg)
-- [V. I. Ļeņina rokraksta „Revolucionārais proletariāts un nāciju pašnoteikšanās tiesības“ pirmā lappuse
-(1915. g., vācu valodā)](./358-359.jpg)
-- [V. I. Ļeņina rokraksta „"Sociālistiskās propogandas līgas" sekretāram“ pirmā lappuse
-(1915. g. novembrī, angļu valodā)](./376-377.jpg)
+- [V. I. Ļeņina rokraksta „Revolucionārais proletariāts un nāciju pašnoteikšanās tiesības“ pirmā lappuse (1915. g., vācu valodā)](./358-359.jpg)
+- [V. I. Ļeņina rokraksta „"Sociālistiskās propogandas līgas" sekretāram“ pirmā lappuse (1915. g. novembrī, angļu valodā)](./376-377.jpg)
 
 ## Oriģinālā grāmatas tehniskā specifikācija (pēdējā lappuse)
 
 > JT 26310. Parakstīta iespiešanai 1950. gada 11. decembrī.<br>
 > Metiens 50 000 eks. (1─20 000). Izdevniecības № 3913-P79.<br>
-> Papīrs 52×84 1/16 == 14,313 papīra loksnes, 23.47 iespiedu<br>
+> Papīrs 52×84 1/16 == 14,313 papīra loksnes, 23,47 iespiedu<br>
 > loksnes un 24,25 izdevniecības loksnes. Pasūt. № 13483.<br>
 > Iespiesta LPRRT Paraugtipografijā, Rīgā, Puškina ielā 12.<br>
 > Maksā 6 rbļ. 50 kap.
